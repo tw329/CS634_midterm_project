@@ -7,6 +7,6 @@ In generate_data.py, I first give a list of items I mentioned in the milestone r
 
 In algorithm.py there is the apriori algorithm. Allow users to enter the file they want and the mini support and the mini confidence.
 
-The result print out in the format:
+The result is showed in the Result.ipynb and the screenshots:
 
 item(s) -> item(s) sup: support conf: confidence
